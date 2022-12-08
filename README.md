@@ -8,4 +8,4 @@ Haydi başlayalım!
 
 
 I will be uploading every 10 lesson notes as a bundle after typing them into a more presentable and readable document. Currently, we have completed lesson
-#4.
+#4. When I type the notes, I might change the order of lessons a bit, to improve understandability.
